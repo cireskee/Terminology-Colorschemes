@@ -6,7 +6,7 @@ eet files are the only needed file, they go into /usr/share/terminology/colorsch
 permissions need to be 644
 
 
-Seraphim 
+**Seraphim** 
 soft pastel's inspired by LoL KD/A Seraphine character design.
 
 Color base credited to lunahellsing (https://www.color-hex.com/member/lunahellsing)
@@ -20,12 +20,12 @@ https://www.color-hex.com/color-palette/109829
 #ca8bf5	(202,139,245)
 #3e4160	(62,65,96)
 
-Melaine
+**Melaine**
 soft pallete inspired by Melaine character design from Dislyte
 
-Dhalia
+**Dhalia**
 soft pallet inspired by Dhalia character design from Dislyet
 
-KDA Akali
+**KDA Akali**
 medium pallete inspired by KDA character designed on Akali.
-Akali don't skree
+'Kali don't skrr
